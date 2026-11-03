@@ -1,6 +1,6 @@
 # FinSight Analytics
 
-# Live Application: https://finsight-analytics099.streamlit.app/
+Live Application: https://finsight-analytics099.streamlit.app/
 
 ### An Interactive Stock Market Analysis and Portfolio Management Platform
 
