@@ -1,5 +1,7 @@
 # FinSight Analytics
 
+# Live Application: https://finsight-analytics099.streamlit.app/
+
 ### An Interactive Stock Market Analysis and Portfolio Management Platform
 
 FinSight Analytics is a Python-based web application developed as part of the **Mastering Python for Finance** subject under the guidance of **Ms. Rekha Gaur**.
