@@ -1,5 +1,4 @@
 from datetime import date, timedelta
-from turtle import color
 
 from matplotlib.pyplot import fill
 import pandas as pd
